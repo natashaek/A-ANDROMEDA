@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_centros.xml" value="0.22" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros.xml" value="0.209375" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_bacalar.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_cancun.xml" value="0.209375" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_chetu.xml" value="0.1953125" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_fcp.xml" value="0.18" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_playa_dc.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
