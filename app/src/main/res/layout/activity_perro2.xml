@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
-        android:text="MARSH"
+        android:text="@string/p2"
         android:textAllCaps="true"
         android:textColor="@color/black"
         android:textSize="48sp"

@@ -22,6 +22,38 @@ class PerrosFcp : AppCompatActivity() {
             startActivity(intent)
         }
 
+        botonPerro2.setOnClickListener {
+            var intent = Intent(this, Perro2::class.java)
+            startActivity(intent)
+        }
+
+        botonPerro3.setOnClickListener {
+            var intent = Intent(this, Perro2::class.java)
+            startActivity(intent)
+        }
+
+        botonPerro3.setOnClickListener {
+            var intent = Intent(this, Perro3::class.java)
+            startActivity(intent)
+        }
+
+        botonPerro4.setOnClickListener {
+            var intent = Intent(this, Perro4::class.java)
+            startActivity(intent)
+        }
+
+        botonPerro5.setOnClickListener {
+            var intent = Intent(this, Perro5::class.java)
+            startActivity(intent)
+        }
+
+        botonPerro6.setOnClickListener {
+            var intent = Intent(this, Perro6::class.java)
+            startActivity(intent)
+        }
+
+
+
         val botonVolver2 = findViewById<Button>(R.id.botonVolver2)
 
         botonVolver2.setOnClickListener {

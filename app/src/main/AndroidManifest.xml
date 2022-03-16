@@ -10,6 +10,105 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ANDROMEDA">
         <activity
+            android:name=".Perro36"
+            android:exported="false" />
+        <activity
+            android:name=".Perro35"
+            android:exported="false" />
+        <activity
+            android:name=".Perro34"
+            android:exported="false" />
+        <activity
+            android:name=".Perro33"
+            android:exported="false" />
+        <activity
+            android:name=".Perro32"
+            android:exported="false" />
+        <activity
+            android:name=".Perro31"
+            android:exported="false" />
+        <activity
+            android:name=".Perro30"
+            android:exported="false" />
+        <activity
+            android:name=".Perro29"
+            android:exported="false" />
+        <activity
+            android:name=".Perro28"
+            android:exported="false" />
+        <activity
+            android:name=".Perro27"
+            android:exported="false" />
+        <activity
+            android:name=".Perro26"
+            android:exported="false" />
+        <activity
+            android:name=".Perro25"
+            android:exported="false" />
+        <activity
+            android:name=".Perro24"
+            android:exported="false" />
+        <activity
+            android:name=".Perro23"
+            android:exported="false" />
+        <activity
+            android:name=".Perro22"
+            android:exported="false" />
+        <activity
+            android:name=".Perro21"
+            android:exported="false" />
+        <activity
+            android:name=".Perro20"
+            android:exported="false" />
+        <activity
+            android:name=".Perro19"
+            android:exported="false" />
+        <activity
+            android:name=".Perro18"
+            android:exported="false" />
+        <activity
+            android:name=".Perro17"
+            android:exported="false" />
+        <activity
+            android:name=".Perro16"
+            android:exported="false" />
+        <activity
+            android:name=".Perro15"
+            android:exported="false" />
+        <activity
+            android:name=".Perro14"
+            android:exported="false" />
+        <activity
+            android:name=".Perro13"
+            android:exported="false" />
+        <activity
+            android:name=".Perro12"
+            android:exported="false" />
+        <activity
+            android:name=".Perro11"
+            android:exported="false" />
+        <activity
+            android:name=".Perro10"
+            android:exported="false" />
+        <activity
+            android:name=".Perro9"
+            android:exported="false" />
+        <activity
+            android:name=".Perro8"
+            android:exported="false" />
+        <activity
+            android:name=".Perro7"
+            android:exported="false" />
+        <activity
+            android:name=".Perro6"
+            android:exported="false" />
+        <activity
+            android:name=".Perro5"
+            android:exported="false" />
+        <activity
+            android:name=".Perro4"
+            android:exported="false" />
+        <activity
             android:name=".Perro3"
             android:exported="false" />
         <activity
