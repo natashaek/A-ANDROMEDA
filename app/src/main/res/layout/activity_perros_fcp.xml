@@ -4,64 +4,420 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/blue_dianne"
     tools:context=".PerrosFcp">
 
+    <Button
+        android:id="@+id/botonVolver2"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="volver"
+        android:textColor="@color/rob_roy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.021"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="horizontal"
-        tools:layout_editor_absoluteX="23dp"
-        tools:layout_editor_absoluteY="22dp">
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.028"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.065"><![CDATA[>
 
-        <LinearLayout
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:background="@color/jungle_green"
-            android:baselineAligned="false"
+
+
+
+
+
+
+
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro1" />
+
+        <TextView
+            android:id="@+id/nombrePerro6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
             android:gravity="center"
-            android:orientation="vertical"
-            android:paddingBottom="5dp"><![CDATA[>
+            android:lineSpacingExtra="8sp"
+            android:text="Marsh"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/rob_roy"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro1"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.065"><![CDATA[>
 
 
 
 
 
-            ]]>
 
-            <ImageView
-                android:id="@+id/imagen"
-                android:layout_width="106dp"
-                android:layout_height="109dp"
-                android:layout_gravity="center" />
 
-            <TextView
-                android:id="@+id/nombre"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:fontFamily="sans-serif-condensed-light"
-                android:gravity="center"
-                android:lineSpacingExtra="8sp"
-                android:text="SCOTT"
-                android:textAlignment="center"
-                android:textAllCaps="true"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textColor="@color/rob_roy"
-                android:textSize="27dp"
-                android:textStyle="bold" />
 
-            <Button
-                android:id="@+id/botonPerro"
-                style="@style/Widget.AppCompat.Button.Borderless.Colored"
-                android:layout_width="wrap_content"
-                android:layout_height="48dp"
-                android:layout_gravity="center"
-                android:text="VER MAS"
-                android:textAlignment="center"
-                android:textColor="@color/white"
-                android:textStyle="bold"
-                app:iconGravity="top|end" />
-        </LinearLayout>
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:lineSpacingExtra="8sp"
+            android:text="Jamie"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/rob_roy"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro2"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.028"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.47"><![CDATA[>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:lineSpacingExtra="8sp"
+            android:text="Skar"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/rob_roy"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro3"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.47"><![CDATA[>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:lineSpacingExtra="8sp"
+            android:text="lottie"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/rob_roy"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro4"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.033"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.879"><![CDATA[>
+
+
+
+
+
+
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:lineSpacingExtra="8sp"
+            android:text="THOMAS"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#FFFF8D"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro5"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@color/blue_dianne"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.981"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.879"><![CDATA[>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]]>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/perro6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:lineSpacingExtra="8sp"
+            android:text="SCOTT"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/rob_roy"
+            android:textSize="27dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/botonPerro6"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="VER MAS"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:iconGravity="top|end" />
 
     </LinearLayout>
 

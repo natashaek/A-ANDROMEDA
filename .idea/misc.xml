@@ -5,12 +5,16 @@
       <map>
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_centros.xml" value="0.22" />
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perro1.xml" value="0.25" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perro2.xml" value="0.209375" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perro3.xml" value="0.209375" />
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros.xml" value="0.209375" />
-        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_bacalar.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_bacalar.xml" value="0.21" />
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_cancun.xml" value="0.209375" />
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_chetu.xml" value="0.1953125" />
-        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_fcp.xml" value="0.18" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_fcp.xml" value="0.25" />
         <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_playa_dc.xml" value="0.1953125" />
+        <entry key="..\:/Users/Nathasa Ek/AndroidStudioProjects/ANDROMEDA/app/src/main/res/layout/activity_perros_tulum.xml" value="0.22" />
       </map>
     </option>
   </component>

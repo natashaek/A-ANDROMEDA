@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ANDROMEDA">
         <activity
+            android:name=".Perro3"
+            android:exported="false" />
+        <activity
+            android:name=".Perro2"
+            android:exported="false" />
+        <activity
+            android:name=".Perro1"
+            android:exported="false" />
+        <activity
             android:name=".PerrosBacalar"
             android:exported="false" />
         <activity
