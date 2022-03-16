@@ -10,7 +10,6 @@ class PerrosFcp : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_perros_fcp)
 
-        //val botonFcp = findViewById<Button>(R.id.botonFcp)
         val botonPerro1 = findViewById<Button>(R.id.botonPerro1)
         val botonPerro2 = findViewById<Button>(R.id.botonPerro2)
         val botonPerro3 = findViewById<Button>(R.id.botonPerro3)

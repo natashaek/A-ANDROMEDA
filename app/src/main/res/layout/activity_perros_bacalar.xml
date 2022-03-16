@@ -56,8 +56,8 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro12" />
 
@@ -124,8 +124,8 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro11" />
 
@@ -194,8 +194,8 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro10" />
 
@@ -262,8 +262,8 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro9" />
 
@@ -324,8 +324,8 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro8" />
 
@@ -387,7 +387,7 @@
         ]]>
 
         <ImageView
-            android:layout_width="110dp"
+            android:layout_width="130dp"
             android:layout_height="110dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/perro7" />
