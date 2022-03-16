@@ -48,9 +48,9 @@ class Centros : AppCompatActivity() {
             startActivity(intent)
 
         }
-        val mensaje = intent.getStringExtra("MENSAJE")
+      /*  val mensaje = intent.getStringExtra("MENSAJE")
 
-        Toast.makeText(this, mensaje, Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, mensaje, Toast.LENGTH_SHORT).show()*/
 
     }
 }

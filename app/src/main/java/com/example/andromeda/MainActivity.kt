@@ -44,7 +44,6 @@ class MainActivity : AppCompatActivity() {
 
         boton.setOnClickListener {
             var intent = Intent(this, Centros::class.java)
-            intent.putExtra("MENSAJE", "HACIA CENTROS DE ADOPCION")
             startActivity(intent)
         }
 
