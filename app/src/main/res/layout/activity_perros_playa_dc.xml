@@ -7,6 +7,21 @@
     android:background="@color/blue_dianne"
     tools:context=".PerrosFcp">
 
+    <Button
+        android:id="@+id/botonVolver2"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="volver"
+        android:textColor="@color/rob_roy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.021"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
     <LinearLayout
         android:layout_width="200dp"
         android:layout_height="200dp"

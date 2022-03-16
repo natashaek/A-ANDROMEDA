@@ -1,6 +1,47 @@
 <resources>
     <string name="app_name">ANDROMEDA</string>
 
+    <string name="p1">MARSH</string>
+    <string name="p2">LOOKIE</string>
+    <string name="p3">TOBIAS</string>
+    <string name="p4">MALA</string>
+    <string name="p5">SKI</string>
+    <string name="p6">CABO</string>
+
+    <string name="p7">OLIV</string>
+    <string name="p8">RODRI</string>
+    <string name="p9">CAMO</string>
+    <string name="p10">LILO</string>
+    <string name="p11">KRIO</string>
+    <string name="p12">MAXIMUS</string>
+
+    <string name="p13">JACK</string>
+    <string name="p14">STEVE</string>
+    <string name="p15">THOR</string>
+    <string name="p16">ODIN</string>
+    <string name="p17">ARES</string>
+    <string name="p18">HERA</string>
+
+    <string name="p19">KIRA</string>
+    <string name="p20">PABLO</string>
+    <string name="p21">JUAN</string>
+    <string name="p22">MATE</string>
+    <string name="p23">STAR</string>
+    <string name="p24">DARK</string>
+
+    <string name="p25">CRIME</string>
+    <string name="p26">FLOWER</string>
+    <string name="p27">SUNSHINE</string>
+    <string name="p28">MERSIE</string>
+    <string name="p29">ANDRE</string>
+    <string name="p30">MAX</string>
+
+    <string name="p31">ARULAYS</string>
+    <string name="p32">AKI</string>
+    <string name="p33">KUN</string>
+    <string name="p34">RUFFO</string>
+    <string name="p35">POPI</string>
+    <string name="p36">TULY</string>
 
 
     <string name="Perro1">Marsh es una mascota muy juguetona y tierna, cautivara tu corazon con su peculiar saludo de pata</string>
